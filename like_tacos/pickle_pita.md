@@ -17,10 +17,12 @@ A sort of taco for when you're hungry, but not super coordinated.
 
 ## Testimonies
 
-> I have had literally hundreds of these, they are really good. -@cmcavoy
+> I have had literally hundreds of these, they are really good. -[@cmcavoy](https://twitter.com/cmcavoy)
 
 ## FAQ
 
 > Could you make this into a taco by replacing the pita with a corn tortilla?
 
 Yes, you could, but it would be less delicious.
+
+tags: vegetarian
